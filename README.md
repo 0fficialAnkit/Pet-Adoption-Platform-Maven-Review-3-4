@@ -2,7 +2,7 @@
 
 # 🐾 Pet Adoption Platform  
 
-Welcome to the **Pet Adoption Platform**, a web application designed to help users adopt pets, manage shelters, and streamline the adoption process with an easy-to-use interface.  
+Welcome to the **Pet Adoption Platform**, a web application designed to help users adopt pets, manage shelters, and streamline the adoption process with an easy-to-use interface.The Pet Adoption Platform is a web-based system designed to simplify and streamline the pet adoption process, connecting animal shelters with potential adopters. It offers an intuitive interface for managing pets, handling adoption applications, and ensuring transparency in the adoption process. 
 
 ---
 
